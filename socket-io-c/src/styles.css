@@ -1,0 +1,25 @@
+.customcard{
+    padding:40px;
+}
+
+.load{
+    height:50px;
+    width:50px;
+}
+
+.status-red{
+color:#E74C3C;
+}
+
+.status-yellow{
+color: #F39C12;
+}
+
+.status-green{
+    color:#00BC8C;
+
+}
+
+.buildstats{
+    margin-top:30px;
+}
